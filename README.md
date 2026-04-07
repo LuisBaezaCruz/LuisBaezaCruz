@@ -1,5 +1,5 @@
 # About Me:
-My name is Luis Baeza.<br>My current project is building a Cyberdeck.<br>I'm currently learning more about electronic engineering and its applications. 
+My name is Luis Baeza.<br>I'm a computer science students at Texas Tech University.<br>My current project is building a Cyberdeck.<br>I'm currently learning more about electronic engineering and its applications. 
 
 
 ## 🌐 Socials:
