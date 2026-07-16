@@ -1,5 +1,5 @@
 # 👨‍🚀 About Me:
-I'm a computer science students at Texas Tech University.<br>My current project is building a quote making software for Transvision by Prefalum.<br>I'm currently learning more about electronic engineering and its applications. 
+I'm a computer science students at Texas Tech University.<br>I'm currently working in building a quote making software for Transvision by Prefalum.
 
 
 ## 🌐 Socials:
