@@ -1,4 +1,4 @@
-# 👨‍🚀 About Me:
+# About Me:
 I'm a computer science students at Texas Tech University.<br>I'm currently working in building a quote making software for Transvision by Prefalum.
 
 
