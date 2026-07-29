@@ -1,5 +1,5 @@
 # About Me:
-I'm a computer science students at Texas Tech University.<br>I'm currently working in building a quote making software called VitrumDesk for the company Transvision by Prefalum.
+I'm a computer science students at Texas Tech University.<br>I'm currently working in building a quote making web app called VitrumDesk for the company Transvision by Prefalum.
 
 
 ## 🌐 Socials:
