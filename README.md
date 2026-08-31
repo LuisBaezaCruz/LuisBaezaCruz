@@ -1,5 +1,5 @@
 # About Me:
-I'm a computer science students at Texas Tech University.<br>I'm currently working in building a quote making web app / CRM called VitrumDesk for the company Transvision by Prefalum. Also in the process of redisigning Transvision's website. 
+I'm a computer science student at Texas Tech University.<br>I'm currently on my last semester to get my bachelor's degree in Computer Science.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luis-baeza-496393270) 
